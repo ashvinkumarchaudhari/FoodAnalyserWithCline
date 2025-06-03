@@ -11,7 +11,7 @@ import SwiftUI
 struct FoodAnalyserWithClineApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
